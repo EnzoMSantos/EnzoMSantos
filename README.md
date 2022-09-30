@@ -7,4 +7,4 @@ enzosantos2502@gmail.com for contact
 
 
 
-![Snake animation](https://github.com/EnzoMSantos/EnzoMsantos/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/EnzoMSantos/EnzoMSantos)
