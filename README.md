@@ -6,7 +6,7 @@
 enzosantos2502@gmail.com for contact
 
 <div>
-  <a href="https://github.com/EnzoMSantos">
+  <a href="https://beacons.ai/EnzoMSantos">
   <img height="180em" src="https.github-readme-stats.vercel.app/api?username=EnzoMSantos&show_icons=true&theme=dracula&iclude_all_commits=true&count_private=true"/>
   <img height="180em" src="https.github-readme-stats.vercel.app/api/top-langs/?username=EnzoMSantos&layout=compact&langs_count=16&theme=dracula"/>
 </div>
