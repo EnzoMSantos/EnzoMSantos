@@ -7,4 +7,3 @@ enzosantos2502@gmail.com for contact
 
 
 
-![Snake animation](https://github.com/EnzoMSantos/EnzoMSantos)
