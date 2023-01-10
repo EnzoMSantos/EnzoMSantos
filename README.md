@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Enzo Santos
-- 👀 I’m interested in Game Design
-- 🌱 I’m currently learning Unity and C#
-- 💞️ I’m making my games for test in Unity for start in my career
+- 👀 I’m interested in Game Design and Web
+- 🌱 I’m currently learning Unity, C#, HTML, CSS and JavaScript 
+- 💞️ I’m making my games for test in Unity and sites for start in my career
 
-enzosantos2502@gmail.com for contact
+enzothedev@gmail.com for contact
 
 
 
