@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou Desenvolvedor de Jogos e Front End e gosto muito de aprender coias novas!   
+    Sou Desenvolvedor de Jogos e Back End, trabalho na Aquiris e gosto muito de aprender coias novas!   
   </p>
   
  
