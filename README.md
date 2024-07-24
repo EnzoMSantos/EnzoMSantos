@@ -2,7 +2,7 @@
   
   <h1 align="center">
     Oi Tudo bem? Eu sou o 
-    <a href="https://www.linkedin.com/in/enzo-dos-santos-ab9956238/">Enzo Moura 😃️</a>
+    <a href="(https://www.linkedin.com/in/enzo-dos-santos-40a256292/)">Enzo Moura 😃️</a>
   </h1>
   
   <p align="center">
