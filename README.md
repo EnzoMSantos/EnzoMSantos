@@ -1,12 +1,12 @@
 <div>
   
   <h1 align="center">
-    OHello everything is fine? I'm 
+    Hello everything is fine? I'm 
     <a href="https://www.linkedin.com/in/enzo-dos-santos-40a256292/">Enzo Moura 😃️</a>
   </h1>
   
   <p align="center">
-    Sou Desenvolvedor de Jogos e Back End, trabalho na Aquiris e gosto muito de aprender coias novas!   
+I'm a Game and Back End Developer, I work as a freelancer and I really enjoy learning new things!
   </p>
   
  
