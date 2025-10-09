@@ -2,7 +2,7 @@
   
   <h1 align="center">
     Hello everything is fine? I'm 
-    <a href="https://www.linkedin.com/in/enzo-dos-santos-40a256292/">Enzo Moura 😃️</a>
+    <a href="https://www.linkedin.com/in/enzo-moura/">Enzo Moura 😃️</a>
   </h1>
   
   <p align="center">
